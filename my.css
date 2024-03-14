@@ -1,0 +1,49 @@
+div.log{
+  /* background: rgb(34,193,195);
+  background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(163,45,253,1) 100%); */
+    text-align: justify;
+    margin: auto;
+    border-radius: 25px;
+    height:auto;
+    width: 20%;
+    padding: 50px 30px;
+    border: 3px solid black;
+    text: white;
+
+}
+h1{   margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    background-color: rgb(192, 224, 116);
+    font-size: 50px;    text-align: center;  
+    border-radius: 20px;
+    padding: 10px 10px;
+    height: auto;
+    width: 20%;
+    text: white;
+   
+}
+    input[type=text], input[type=password] {
+    width: 100%;
+    font-size: 16px;
+    padding: 12px 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #83597a;
+    box-sizing: border-box;
+    text: white;
+  }
+  
+  /* Set a style for all buttons */
+  input[type=button] {
+     background: rgb(34,193,195); 
+/* background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(163,45,253,1) 100%); */
+    color: black;
+    padding: 14px 20px;
+    font-size: 18px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    text: white;
+  }
